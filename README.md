@@ -1,7 +1,5 @@
-# Netflix-EDA-Project
-Exploratory Data Analysis on Netflix Dataset using Python
-
 # Netflix EDA Project 🎬
+Exploratory Data Analysis on Netflix Dataset using Python
 
 This is a beginner-level Data Science project where I analyzed a Netflix dataset using Python.
 
