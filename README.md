@@ -37,6 +37,3 @@ Netflix analysis dataset with 150 entries, created for learning and practice pur
 
 ✨ This project is part of my Data Science learning journey.
 
-
-## 🔗 Connect with Me
-LinkedIn: "www.linkedin.com/in/sanika-bhostekar-189a7b328"
